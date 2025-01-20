@@ -54,7 +54,7 @@ nav .btn button a {
 .intro {
     padding: 30vh;
     width: 100%;
-    color: rgb(44, 75, 75);
+    color: aqua;
 
 }
 
@@ -73,7 +73,7 @@ nav .btn button a {
     }
 
     .intro {
-        padding: 70px 0;
+        padding: 30vh 0;
     }
     
 }
