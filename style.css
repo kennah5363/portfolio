@@ -7,6 +7,7 @@ body {
     background: url(kennah.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100vh;
 }
 header {
     width: 100%;
@@ -77,3 +78,5 @@ nav .btn button a {
     }
     
 }
+
+
