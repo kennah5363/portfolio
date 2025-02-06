@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background: url(kennah.jpg);
+    background:linear-gradient(rgba(0,0,0,0.6),#2e382e ) , url(kennah.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -38,7 +38,7 @@ nav .btn button{
 
 nav .btn button .active,
 nav .btn button:hover {
-    background-color: aqua;
+    background-color: #50c9ce;
 }
 
 nav .btn button a {
@@ -55,7 +55,7 @@ nav .btn button a {
 .intro {
     padding: 30vh;
     width: 100%;
-    color: aqua;
+    color: #50c9ce;
 
 }
 
