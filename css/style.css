@@ -1,0 +1,91 @@
+body {
+    background-color: #081d3b;
+    color: aliceblue;
+}
+
+.navbar {
+    background-color: #081d3b;
+}
+
+@media (max-width: 991px) {
+    .sidebar {
+        background-color: #081d3b;
+
+    }
+
+    section.home {
+        text-align: center;
+    }
+
+    section.home img {
+        height: 350px;
+    }
+
+    section.home .img {
+        text-align: center !important;
+    }
+
+    .contacts,
+    .contacts .contact {
+        text-align: center !important;
+    }
+
+}
+
+.project {
+    background-color: azure;
+}
+
+/* section.home {
+    padding-top: 80px;
+} */
+
+
+section [class^="container"] {
+    padding: 4rem;
+}
+
+.services .card {
+    margin-inline: auto;
+    margin-top: 20px;
+    max-width: 22rem;
+    color: black;
+}
+
+.services .card img {
+    width: 80%;
+
+    margin-inline: auto;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+
+.projects .card {
+    margin-inline: auto;
+    margin-top: 20px;
+    max-width: 17rem;
+    color: black;
+}
+
+.contacts .contact {
+    text-align: right;
+}
+
+.fa-whatsapp {
+    color: green;
+}
+
+
+section.home .img {
+    text-align: right;
+}
+
+.team .card {
+    height: 380px;
+    margin-inline: auto;
+    color: black;
+}
+
+.team .card-body {
+    height: 100%;
+}
